@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushabhgediya38&label=Profile%20views&color=0e75b6&style=flat" alt="rushabhgediya38" /> </p>
 
-- 🔭 I’m currently working on **Product Based Companies**
+- 🔭 I’m currently working on **Product Based Company**
 
 - 🌱 I’m currently learning **Node Js, Cyber Security**
 
