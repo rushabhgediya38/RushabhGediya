@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Django Based Projects**
 
-- 🌱 I’m currently learning **Node Js, Cyber Security**
+- 🌱 I’m currently learning **DevOps, Cyber Security**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rushabhgediya38](https://github.com/rushabhgediya38)
 
